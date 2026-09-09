@@ -1137,7 +1137,7 @@ span.bouncy {
     // audio
 
     blipsSfx: new Howl({
-        src: ["https://tozi-coli.github.io/courtu.observer/blips.wav"],
+        src: ["https://tozi-coli.github.io/COURTu.observer/blips.wav"],
         preload: true,
         volume: 0.75,
         rate: 1,
